@@ -2,7 +2,9 @@
 
 ## Prelab questions
 
-### Truth Table
+### Truth
+
+### Table
 
 | Month | A | B | C | D | Y |
 
